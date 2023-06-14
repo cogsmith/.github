@@ -1,6 +1,8 @@
-# COGSMITH: IT Services & Solutions Provider
-
-![HEADER](HEADER.PNG)
+<h1 align='center'>COGSMITH: IT Services & Solutions Provider</h1>
+<h2 align='center'>
+	<a href='https://github.com/dacoffey'><img src='https://raw.githubusercontent.com/dacoffey/dacoffey/main/HEADER.PNG' /></a>
+	DAC: David Adam Coffey @ https://github.com/dacoffey
+</h2>
 
 <!--
 <br>
@@ -9,11 +11,9 @@
 <br>
 -->
 
----
+<br><br><h3 align='center'>😎 HELLO WORLD 😎</h3><br><br>
 
-## 😎 HELLO WORLD 😎
-
-## 💬 Favorite Quotes
+## 💬 Favorite Quotes 💬
 
 <code>
   The three chief virtues of a programmer are: <u>Laziness</u>, <u>Impatience</u>, and <u>Hubris</u>
@@ -106,7 +106,7 @@
 # ⭐ SYSOPS: <a href='https://github.com/cogsmith/dclone'>DCLONE</a>
 ## Terminal menu interface for guided disk cloning using dd + mksquashfs + kpartx powered by NodeJS & Blessed
 
-<br><br>
+<br>
 
 <a href='https://github.com/cogsmith/dclone'>
   <img src='https://github.com/cogsmith/dclone/raw/main/SCREENCAP.GIF' />
@@ -114,21 +114,7 @@
 
 <br><br>
 
----
-
-<p align="center"><img src='HELLOWORLD.PNG'></p>
-
----
-
-![BANNER](BANNERX.PNG)
-
-<!-- <h1>😄 HELLO WORLD 😄</h1> -->
-
-<img src='API.GIF' align='right' width='345px'>
-
 <!-- <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right"> -->
-
-<img height='450px' width='470px' src='INFO.SVG'>
 
 <!--
 <img width='45%' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FNew_York'>
